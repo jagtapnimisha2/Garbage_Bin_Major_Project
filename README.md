@@ -21,6 +21,8 @@
 
  >PCB design tool(EasyEDA)
 
+ >Arduino IDE
+
 # Hardware Used
  >NodeMCU(esp8266)
 
